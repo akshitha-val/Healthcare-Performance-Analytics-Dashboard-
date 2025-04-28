@@ -10,6 +10,7 @@ class WorkbookUtils:
             for file in files
         ]
 
+
         if ext != "*":
             file_list = [f for f in file_list if os.path.splitext(f)[-1] in ext]
 
