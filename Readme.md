@@ -128,6 +128,3 @@ This project demonstrates:
 ---
 
 
-## Disclaimer
-This project uses **sample or anonymized data** for demonstration purposes.  
-No sensitive or personal healthcare information is disclosed.
